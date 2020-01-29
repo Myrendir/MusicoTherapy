@@ -14,7 +14,9 @@ var SpotifyWebApi = require('../');
 /* This code is hardcoded. For a working implementation, the code needs to be retrieved from the user. See documentation about
  * the Authorization Code flow for more information.
  */
-var authorizationCode = '<insert authorization code>';
+var authorizationCode =
+    'AQAgjS78s64u1axMCBCRA0cViW_ZDDU0pbgENJ_-WpZr3cEO7V5O-JELcEPU6pGLPp08SfO3dnHmu6XJikKqrU8LX9W6J11NyoaetrXtZFW-Y58UGeV69tuyybcNUS2u6eyup1EgzbTEx4LqrP_eCHsc9xHJ0JUzEhi7xcqzQG70roE4WKM_YrlDZO-e7GDRMqunS9RMoSwF_ov-gOMpvy9OMb7O58nZoc3LSEdEwoZPCLU4N4TTJ-IF6YsQRhQkEOJK';
+
 
 /**
  * Set the credentials given on Spotify's My Applications page.
